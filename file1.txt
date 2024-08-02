@@ -1,3 +1,5 @@
 hello
+added hi
+checking to modify the commit message
 fine
 good
