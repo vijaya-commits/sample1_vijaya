@@ -1,5 +1,3 @@
 hello
 fine
 good
-next
-great!!!
