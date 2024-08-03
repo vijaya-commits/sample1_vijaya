@@ -8,3 +8,4 @@ newline fron subbranch-4
 newline added in subbranch-5
 file1 here
 good
+this line is to check stash behaviour,added from main 
