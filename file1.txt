@@ -10,3 +10,4 @@ file1 here
 good
 this line is to check stash behaviour,added from main 
 thid from subr2
+from main 1st line
