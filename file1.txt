@@ -8,6 +8,7 @@ newline fron subbranch-4
 newline added in subbranch-5
 file1 here
 from subr check rebase and merge
+second line from sub
 good
 this line is to check stash behaviour,added from main 
 thid from subr2
