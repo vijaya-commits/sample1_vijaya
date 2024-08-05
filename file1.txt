@@ -9,3 +9,4 @@ newline added in subbranch-5
 file1 here
 good
 from main 1st line
+added fro main checking mrege and rebase
